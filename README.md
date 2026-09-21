@@ -2,6 +2,11 @@
 
 > **让你更清楚地了解，究竟是什么占据了你的等待耗时。**
 
+[![npm version](https://img.shields.io/npm/v/dsh-plugin-trajectory-tracker.svg?color=38bdf8)](https://www.npmjs.com/package/dsh-plugin-trajectory-tracker)
+[![npm downloads](https://img.shields.io/npm/dt/dsh-plugin-trajectory-tracker.svg?color=10b981)](https://www.npmjs.com/package/dsh-plugin-trajectory-tracker)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hirohana77/dsh-plugin-trajectory-tracker/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hirohana77/dsh-plugin-trajectory-tracker.svg?style=social)](https://github.com/hirohana77/dsh-plugin-trajectory-tracker)
+
 [English](./README_EN.md) | **简体中文**
 
 专为 **DeepSeek Harness (DSH)** WebUI 量身打造的轻量级、零侵入执行轨迹与实时时序追踪插件。帮助你在任务生成期间，实时透视大模型的思考准备（首包等待）、流式推理生成以及本地工具调用的每一个关键步骤与耗时细节。
@@ -14,7 +19,7 @@
 在您的 DSH Web Profile 目录下执行安装：
 ```bash
 cd ~/.dsh/profiles/web
-npm install github:hirohana77/dsh-plugin-trajectory-tracker
+npm install dsh-plugin-trajectory-tracker
 ```
 
 ### 2. 在配置中声明激活

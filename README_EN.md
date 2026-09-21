@@ -2,6 +2,11 @@
 
 > **Know exactly what’s taking up your waiting time.**
 
+[![npm version](https://img.shields.io/npm/v/dsh-plugin-trajectory-tracker.svg?color=38bdf8)](https://www.npmjs.com/package/dsh-plugin-trajectory-tracker)
+[![npm downloads](https://img.shields.io/npm/dt/dsh-plugin-trajectory-tracker.svg?color=10b981)](https://www.npmjs.com/package/dsh-plugin-trajectory-tracker)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hirohana77/dsh-plugin-trajectory-tracker/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hirohana77/dsh-plugin-trajectory-tracker.svg?style=social)](https://github.com/hirohana77/dsh-plugin-trajectory-tracker)
+
 **English** | [简体中文](./README.md)
 
 A lightweight, non-intrusive execution trajectory and real-time latency tracker plugin for **DeepSeek Harness (DSH)** WebUI. It provides instant, transparent visibility into the model's preparation, streaming, and tool execution stages as they happen.
@@ -14,7 +19,7 @@ A lightweight, non-intrusive execution trajectory and real-time latency tracker 
 Install into your DSH Web Profile directory:
 ```bash
 cd ~/.dsh/profiles/web
-npm install github:hirohana77/dsh-plugin-trajectory-tracker
+npm install dsh-plugin-trajectory-tracker
 ```
 
 ### 2. Enable in Profile
