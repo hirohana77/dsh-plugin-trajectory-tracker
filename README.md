@@ -7,7 +7,9 @@
 <a name="english"></a>
 ## English
 
-A non-intrusive, zero-overhead execution trajectory and real-time latency tracker plugin for **DeepSeek Harness (DSH)** WebUI.
+> **No more blind waiting — gain real-time, intuitive visibility into every step DSH takes.**
+
+A lightweight, non-intrusive execution trajectory and real-time latency tracker plugin for **DeepSeek Harness (DSH)** WebUI, designed to help you intuitively understand the model's reasoning, tool dispatching, and execution progress in real time as you wait.
 
 ### 🌟 Key Features
 
@@ -66,7 +68,9 @@ Refresh the browser (`http://127.0.0.1:3080`) to activate!
 <a name="简体中文"></a>
 ## 简体中文
 
-适用于 **DeepSeek Harness (DSH)** WebUI 的零侵入、无负面影响的执行过程全景追踪与时序轨迹分析插件。
+> **告别盲目等待 —— 让你在等待过程中更直观、实时地掌握 DSH 的每一步运行过程。**
+
+专为 **DeepSeek Harness (DSH)** WebUI 量身打造的轻量级、零侵入执行轨迹与实时时序追踪插件。帮助你在任务生成期间，实时透视大模型的思考准备、推理生成以及本地工具调用的每一个关键步骤与耗时细节。
 
 ### 🌟 核心特性
 
