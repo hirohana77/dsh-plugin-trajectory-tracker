@@ -1,0 +1,4 @@
+# 轨迹跟踪：宿主 + 浏览器双面插件。client 入口见 package.json 的 dsh.client / exports["./client"]。
+- insert:
+    - id: trajectory-tracker
+      name: dsh-plugin-trajectory-tracker
