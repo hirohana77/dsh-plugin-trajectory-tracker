@@ -1,7 +1,7 @@
 {
   "name": "dsh-plugin-trajectory-tracker",
   "version": "1.0.1",
-  "description": "让你在等待过程中更直观、实时地掌握 DSH 运行过程的时序轨迹追踪插件",
+  "description": "让你更清楚地了解究竟是什么占据了你的等待耗时的 DSH 时序轨迹追踪插件",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
