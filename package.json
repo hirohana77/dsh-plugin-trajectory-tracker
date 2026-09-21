@@ -9,10 +9,27 @@
     "./client": "./lib/client.js",
     "./package.json": "./package.json"
   },
+  "license": "MIT",
+  "author": "hirohana77",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirohana77/dsh-plugin-trajectory-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hirohana77/dsh-plugin-trajectory-tracker/issues"
+  },
+  "homepage": "https://github.com/hirohana77/dsh-plugin-trajectory-tracker#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "files": [
     "lib/index.js",
     "lib/client.js",
-    "cordis.patch.yml"
+    "cordis.patch.yml",
+    "README.md",
+    "README_EN.md",
+    "assets"
   ],
   "keywords": [
     "dsh",
